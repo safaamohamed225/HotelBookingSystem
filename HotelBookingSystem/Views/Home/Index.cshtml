@@ -1,0 +1,43 @@
+﻿
+@model List<Room>
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+
+
+<div class="container">
+    <div class="row">
+        @foreach (var room in Model)
+        {
+            <div class="col-md-4">
+                <div class="card mb-4 shadow-sm">
+                    <img src="@room.Imagepath" class="card-img-top" alt="Room Image">
+                    <div class="card-body">
+                        <h5 class="card-title">@room.Branch.BranchName</h5>
+                        <p class="card-text">@room.Branch.Location</p>
+                        <div class="d-flex justify-content-between align-items-center">
+                            <div class="btn-group">
+                                <a asp-action="RoomDetailsForCustomer" asp-controller="Rooms" asp-route-id="@room.RoomID" class="btn btn-sm btn-outline-secondary">View</a>
+                                @if (User.Identity.IsAuthenticated && !User.IsInRole("Admin"))
+                                {
+                                    if (!room.isBooked)
+                                    {
+                                        <a asp-action="BookRoom" asp-controller="Rooms" asp-route-id="@room.RoomID" class="btn btn-sm btn-outline-primary">Book</a>
+
+                                    }
+                                    else
+                                    {
+                                        <button asp-action="BookRoom" disabled  asp-controller="Rooms" asp-route-id="@room.RoomID" class="btn btn-sm btn-outline-secondary">Book</button>
+
+                                    }
+                                }
+                            </div>
+                            <small class="text-muted">@room.PricePerNight.ToString("C")/night</small>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>

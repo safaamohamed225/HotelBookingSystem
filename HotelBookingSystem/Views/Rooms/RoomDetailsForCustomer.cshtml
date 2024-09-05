@@ -1,0 +1,73 @@
+﻿@model Room
+
+<div class="room-details">
+    <h2>Room Details</h2>
+
+    <div class="room-image">
+        <img src="/@Model.Imagepath" alt="Room Image" class="img-thumbnail" />
+    </div>
+
+    <div class="room-info">
+        <h4>@Model.RoomNumber - @Model.RoomNumber</h4>
+        <p><strong>Branch:</strong> @Model.Branch.BranchName</p>
+        <p><strong>Price per Night:</strong> @Model.PricePerNight.ToString("C")</p>
+        <p><strong>Status:</strong> @Model.Status</p>
+        <p><strong>Note:</strong> @Model.Note</p>
+    </div>
+    @if (User.Identity.IsAuthenticated && !User.IsInRole("Admin"))
+    {
+
+        if (!Model.isBooked)
+        {
+            <div class="room-actions">
+                <a href="/BookRoom/@Model.RoomID" class="btn btn-primary">Book Now</a>
+            </div>
+        }
+        else
+        {
+            
+            <div class="room-actions">
+                <button disabled href="/Booking/Create?roomId=@Model.RoomID" class="btn btn-secondary">Book Now</button>
+            </div>
+        }
+    }
+   
+</div>
+<style>
+    .room-details {
+        max-width: 800px;
+        margin: 0 auto;
+        padding: 20px;
+        border: 1px solid #ddd;
+        border-radius: 5px;
+        background-color: #f9f9f9;
+    }
+
+    .room-image {
+        text-align: center;
+        margin-bottom: 20px;
+    }
+
+        .room-image img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 5px;
+        }
+
+    .room-info {
+        margin-bottom: 20px;
+    }
+
+        .room-info h4 {
+            margin-bottom: 15px;
+        }
+
+        .room-info p {
+            margin-bottom: 10px;
+        }
+
+    .room-actions {
+        text-align: center;
+    }
+
+</style>

@@ -1,0 +1,56 @@
+﻿@model List<Room>
+<table class="table table-hover">
+    <thead>
+        <tr>
+           @if(User.IsInRole("Admin"))
+            {
+                <th>Room ID</th>
+                <th>Room Number</th>
+                <th>Branch ID</th>
+                <th>Room Type ID</th>
+
+            }
+            <th>Price Per Night</th>
+            <th>Status</th>
+
+            @if(User.IsInRole("Admin"))
+            {
+                 <th>Note</th>
+
+            }
+            <th>Booking</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var room in Model)
+        {
+            <tr onclick="redirectToRoom(@room.RoomID)" style="cursor: pointer;">
+                @if(User.IsInRole("Admin"))
+                {
+                     <td>@room.RoomID</td>
+                     <td>@room.RoomNumber</td>
+                     <td>@room.BranchID</td>
+                     <td>@room.RoomTypeID</td>
+                }
+               
+                <td>@room.PricePerNight.ToString("C")</td>
+                <td>@room.Status</td>
+
+                @if(User.IsInRole("Admin"))
+                {
+                    <td>@room.Note</td>
+                }
+                
+                <td class="@(room.isBooked ? "booked" : "not-booked")">
+                    @(room.isBooked ? "Booked" : "Available")
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+<script>
+    
+    function redirectToRoom(roomId) {
+        window.location.href = `/RoomDetailsForCustomer/${roomId}`;
+    }
+</script>

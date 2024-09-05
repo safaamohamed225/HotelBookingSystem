@@ -1,0 +1,297 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Safaa\\Downloads\\Compressed\\HotelBookingSystem_2_2\\HotelBookingSystem\\HotelBookingSystem\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\HotelBookingSystem.bundle.scp.css",
+      "PackagePath": "staticwebassets\\HotelBookingSystem.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Safaa\\Downloads\\Compressed\\HotelBookingSystem_2_2\\HotelBookingSystem\\HotelBookingSystem\\wwwroot\\RoomImages\\56c3aec9-10e9-4d0e-a76b-946a3f54901f.jpg",
+      "PackagePath": "staticwebassets\\RoomImages\\56c3aec9-10e9-4d0e-a76b-946a3f54901f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Safaa\\Downloads\\Compressed\\HotelBookingSystem_2_2\\HotelBookingSystem\\HotelBookingSystem\\wwwroot\\RoomImages\\6142f200-de74-4115-b8de-bdd3d9d057ad.jpg",
+      "PackagePath": "staticwebassets\\RoomImages\\6142f200-de74-4115-b8de-bdd3d9d057ad.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Safaa\\Downloads\\Compressed\\HotelBookingSystem_2_2\\HotelBookingSystem\\HotelBookingSystem\\wwwroot\\RoomImages\\651f568b-7b8a-4f84-a621-44fbe9d44938.jpg",
+      "PackagePath": "staticwebassets\\RoomImages\\651f568b-7b8a-4f84-a621-44fbe9d44938.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Safaa\\Downloads\\Compressed\\HotelBookingSystem_2_2\\HotelBookingSystem\\HotelBookingSystem\\wwwroot\\RoomImages\\72d91693-f714-4aed-9663-56d66a2b42ba.jpg",
+      "PackagePath": "staticwebassets\\RoomImages\\72d91693-f714-4aed-9663-56d66a2b42ba.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Safaa\\Downloads\\Compressed\\HotelBookingSystem_2_2\\HotelBookingSystem\\HotelBookingSystem\\wwwroot\\RoomImages\\80e52da9-fc81-4990-b32f-4020bfafac27.PNG",
+      "PackagePath": "staticwebassets\\RoomImages\\80e52da9-fc81-4990-b32f-4020bfafac27.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Safaa\\Downloads\\Compressed\\HotelBookingSystem_2_2\\HotelBookingSystem\\HotelBookingSystem\\wwwroot\\RoomImages\\bf1b52c4-f201-4105-a4e8-3c3f68b2669d.jpg",
+      "PackagePath": "staticwebassets\\RoomImages\\bf1b52c4-f201-4105-a4e8-3c3f68b2669d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Safaa\\Downloads\\Compressed\\HotelBookingSystem_2_2\\HotelBookingSystem\\HotelBookingSystem\\wwwroot\\RoomImages\\eae2b4a4-b04a-4c6d-a0ca-75b4fe0146e5.PNG",
+      "PackagePath": "staticwebassets\\RoomImages\\eae2b4a4-b04a-4c6d-a0ca-75b4fe0146e5.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Safaa\\Downloads\\Compressed\\HotelBookingSystem_2_2\\HotelBookingSystem\\HotelBookingSystem\\wwwroot\\css\\bootstrap.min (1).css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min (1).css"
+    },
+    {
+      "Id": "C:\\Users\\Safaa\\Downloads\\Compressed\\HotelBookingSystem_2_2\\HotelBookingSystem\\HotelBookingSystem\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Safaa\\Downloads\\Compressed\\HotelBookingSystem_2_2\\HotelBookingSystem\\HotelBookingSystem\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Safaa\\Downloads\\Compressed\\HotelBookingSystem_2_2\\HotelBookingSystem\\HotelBookingSystem\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Safaa\\Downloads\\Compressed\\HotelBookingSystem_2_2\\HotelBookingSystem\\HotelBookingSystem\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Safaa\\Downloads\\Compressed\\HotelBookingSystem_2_2\\HotelBookingSystem\\HotelBookingSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Safaa\\Downloads\\Compressed\\HotelBookingSystem_2_2\\HotelBookingSystem\\HotelBookingSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Safaa\\Downloads\\Compressed\\HotelBookingSystem_2_2\\HotelBookingSystem\\HotelBookingSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Safaa\\Downloads\\Compressed\\HotelBookingSystem_2_2\\HotelBookingSystem\\HotelBookingSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Safaa\\Downloads\\Compressed\\HotelBookingSystem_2_2\\HotelBookingSystem\\HotelBookingSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Safaa\\Downloads\\Compressed\\HotelBookingSystem_2_2\\HotelBookingSystem\\HotelBookingSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Safaa\\Downloads\\Compressed\\HotelBookingSystem_2_2\\HotelBookingSystem\\HotelBookingSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Safaa\\Downloads\\Compressed\\HotelBookingSystem_2_2\\HotelBookingSystem\\HotelBookingSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Safaa\\Downloads\\Compressed\\HotelBookingSystem_2_2\\HotelBookingSystem\\HotelBookingSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Safaa\\Downloads\\Compressed\\HotelBookingSystem_2_2\\HotelBookingSystem\\HotelBookingSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Safaa\\Downloads\\Compressed\\HotelBookingSystem_2_2\\HotelBookingSystem\\HotelBookingSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Safaa\\Downloads\\Compressed\\HotelBookingSystem_2_2\\HotelBookingSystem\\HotelBookingSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Safaa\\Downloads\\Compressed\\HotelBookingSystem_2_2\\HotelBookingSystem\\HotelBookingSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Safaa\\Downloads\\Compressed\\HotelBookingSystem_2_2\\HotelBookingSystem\\HotelBookingSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Safaa\\Downloads\\Compressed\\HotelBookingSystem_2_2\\HotelBookingSystem\\HotelBookingSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Safaa\\Downloads\\Compressed\\HotelBookingSystem_2_2\\HotelBookingSystem\\HotelBookingSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Safaa\\Downloads\\Compressed\\HotelBookingSystem_2_2\\HotelBookingSystem\\HotelBookingSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Safaa\\Downloads\\Compressed\\HotelBookingSystem_2_2\\HotelBookingSystem\\HotelBookingSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Safaa\\Downloads\\Compressed\\HotelBookingSystem_2_2\\HotelBookingSystem\\HotelBookingSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Safaa\\Downloads\\Compressed\\HotelBookingSystem_2_2\\HotelBookingSystem\\HotelBookingSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Safaa\\Downloads\\Compressed\\HotelBookingSystem_2_2\\HotelBookingSystem\\HotelBookingSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Safaa\\Downloads\\Compressed\\HotelBookingSystem_2_2\\HotelBookingSystem\\HotelBookingSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Safaa\\Downloads\\Compressed\\HotelBookingSystem_2_2\\HotelBookingSystem\\HotelBookingSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Safaa\\Downloads\\Compressed\\HotelBookingSystem_2_2\\HotelBookingSystem\\HotelBookingSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Safaa\\Downloads\\Compressed\\HotelBookingSystem_2_2\\HotelBookingSystem\\HotelBookingSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Safaa\\Downloads\\Compressed\\HotelBookingSystem_2_2\\HotelBookingSystem\\HotelBookingSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Safaa\\Downloads\\Compressed\\HotelBookingSystem_2_2\\HotelBookingSystem\\HotelBookingSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Safaa\\Downloads\\Compressed\\HotelBookingSystem_2_2\\HotelBookingSystem\\HotelBookingSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Safaa\\Downloads\\Compressed\\HotelBookingSystem_2_2\\HotelBookingSystem\\HotelBookingSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Safaa\\Downloads\\Compressed\\HotelBookingSystem_2_2\\HotelBookingSystem\\HotelBookingSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Safaa\\Downloads\\Compressed\\HotelBookingSystem_2_2\\HotelBookingSystem\\HotelBookingSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Safaa\\Downloads\\Compressed\\HotelBookingSystem_2_2\\HotelBookingSystem\\HotelBookingSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Safaa\\Downloads\\Compressed\\HotelBookingSystem_2_2\\HotelBookingSystem\\HotelBookingSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Safaa\\Downloads\\Compressed\\HotelBookingSystem_2_2\\HotelBookingSystem\\HotelBookingSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Safaa\\Downloads\\Compressed\\HotelBookingSystem_2_2\\HotelBookingSystem\\HotelBookingSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Safaa\\Downloads\\Compressed\\HotelBookingSystem_2_2\\HotelBookingSystem\\HotelBookingSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Safaa\\Downloads\\Compressed\\HotelBookingSystem_2_2\\HotelBookingSystem\\HotelBookingSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Safaa\\Downloads\\Compressed\\HotelBookingSystem_2_2\\HotelBookingSystem\\HotelBookingSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Safaa\\Downloads\\Compressed\\HotelBookingSystem_2_2\\HotelBookingSystem\\HotelBookingSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Safaa\\Downloads\\Compressed\\HotelBookingSystem_2_2\\HotelBookingSystem\\HotelBookingSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Safaa\\Downloads\\Compressed\\HotelBookingSystem_2_2\\HotelBookingSystem\\HotelBookingSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Safaa\\Downloads\\Compressed\\HotelBookingSystem_2_2\\HotelBookingSystem\\HotelBookingSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Safaa\\Downloads\\Compressed\\HotelBookingSystem_2_2\\HotelBookingSystem\\HotelBookingSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Safaa\\Downloads\\Compressed\\HotelBookingSystem_2_2\\HotelBookingSystem\\HotelBookingSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Safaa\\Downloads\\Compressed\\HotelBookingSystem_2_2\\HotelBookingSystem\\HotelBookingSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Safaa\\Downloads\\Compressed\\HotelBookingSystem_2_2\\HotelBookingSystem\\HotelBookingSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Safaa\\Downloads\\Compressed\\HotelBookingSystem_2_2\\HotelBookingSystem\\HotelBookingSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Safaa\\Downloads\\Compressed\\HotelBookingSystem_2_2\\HotelBookingSystem\\HotelBookingSystem\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Safaa\\Downloads\\Compressed\\HotelBookingSystem_2_2\\HotelBookingSystem\\HotelBookingSystem\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Safaa\\Downloads\\Compressed\\HotelBookingSystem_2_2\\HotelBookingSystem\\HotelBookingSystem\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Safaa\\Downloads\\Compressed\\HotelBookingSystem_2_2\\HotelBookingSystem\\HotelBookingSystem\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Safaa\\Downloads\\Compressed\\HotelBookingSystem_2_2\\HotelBookingSystem\\HotelBookingSystem\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Safaa\\Downloads\\Compressed\\HotelBookingSystem_2_2\\HotelBookingSystem\\HotelBookingSystem\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Safaa\\Downloads\\Compressed\\HotelBookingSystem_2_2\\HotelBookingSystem\\HotelBookingSystem\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Safaa\\Downloads\\Compressed\\HotelBookingSystem_2_2\\HotelBookingSystem\\HotelBookingSystem\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Safaa\\Downloads\\Compressed\\HotelBookingSystem_2_2\\HotelBookingSystem\\HotelBookingSystem\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.HotelBookingSystem.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.HotelBookingSystem.props",
+      "PackagePath": "build\\HotelBookingSystem.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.HotelBookingSystem.props",
+      "PackagePath": "buildMultiTargeting\\HotelBookingSystem.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.HotelBookingSystem.props",
+      "PackagePath": "buildTransitive\\HotelBookingSystem.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
